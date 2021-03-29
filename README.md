@@ -33,3 +33,9 @@
 #### 4.2 Recommend and implement the appropriate machine learning services and features for a given problem.
 #### 4.3 Apply basic AWS security practices to machine learning solutions.
 #### 4.4 Deploy and operationalize machine learning solutions
+
+### Links to get overview
+<ul>
+<li>https://simpledataflow.com/machine-learning-specialty-exam/</li>
+<li>https://cloudacademy.com/learning-paths/aws-machine-learning-specialty-certification-preparation-453/</li>  
+</ul>  
